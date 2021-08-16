@@ -4,18 +4,18 @@ Project developed by Juan Esteban Correa Pérez as part of the foundations progr
 
 It's purpose is to help the student understand:
 
-What is source code management  
-What is Git  
-What is GitHub  
-What is the difference between Git and GitHub  
-How to create a repository  
-What is a README  
-How to write good READMEs  
-How to commit  
-How to write helpful commit messages  
-How to push code  
-How to pull updates  
-How to create a branch  
-How to merge branches  
-How to work as collaborators on a project  
-Which files should and which files should not appear in your repo  
+What is source code management<br />
+What is Git<br />
+What is GitHub<br />
+What is the difference between Git and GitHub<br />
+How to create a repository<br />
+What is a README<br />
+How to write good READMEs<br />
+How to commit<br />
+How to write helpful commit messages<br />
+How to push code<br />
+How to pull updates<br />
+How to create a branch<br />
+How to merge branches<br />
+How to work as collaborators on a project<br />
+Which files should and which files should not appear in your repo<br />
